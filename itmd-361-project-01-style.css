@@ -1,0 +1,43 @@
+  
+  
+  
+  
+  
+  
+	body * 
+	{
+		font-family: "Times New Roman", Georgia, serif;
+		font-size: 100%;
+		font-weight: inherit;
+		line-height: 1.5em;
+		vertical-align: baseline;
+	}
+	
+	body 
+	{
+		background: rgb(229, 55, 17);
+		margin-left: auto;
+		margin-right: auto;
+		width: 1135px;
+	}
+	
+	header img
+	{
+		border-radius: 30px;
+	}
+	
+	section 
+	{
+		border-radius: 10px;
+		background: url(itmd-361-project-01-section.jpg);
+	}
+	
+	#index_sec_1 
+	{
+		padding-bottom: 5px;
+		padding-left: 10px;
+		padding-right: 10px;
+		padding-top: 5px;	
+	}
+		
+		
