@@ -45,3 +45,22 @@
 		width: 740px;
 		height: 375px;
 	}
+	
+	nav ul 
+	{
+		padding-top: 10px;
+		padding-bottom: 10px;
+		background: white;
+		list-style-type: none;
+		border-radius: 5px;
+    }
+	
+	nav ul li
+	{
+		display: inline;
+	}
+	
+	nav ul li.active
+	{
+		background-color: gray;
+	}
