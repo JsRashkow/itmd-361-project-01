@@ -29,7 +29,7 @@
 	section 
 	{
 		border-radius: 10px;
-		background: url(itmd-361-project-01-section.jpg);
+		background: white;
 	}
 	
 	#index_sec_1 
@@ -40,4 +40,8 @@
 		padding-top: 5px;	
 	}
 		
-		
+	iframe
+	{
+		width: 740px;
+		height: 375px;
+	}
